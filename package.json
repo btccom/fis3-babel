@@ -1,0 +1,31 @@
+{
+  "name": "fis3-parser-babel",
+  "version": "1.1.0",
+  "description": "A plugin to transform es6 to es5 based on babel",
+  "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ouvens/fis3-parser-babel.git"  
+  },
+  "scripts": {
+    "test": "fis3-babel test"
+  },
+  "keywords": [
+    "fis3-parser-babel babel fis3"
+  ],
+  "author": {
+    "name": "ouvenzhang"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.34"
+  },
+  "dependencies": {
+    "babel": "^6.1.18",
+    "babel-core": "^5.8.34"
+  },
+  "readme": "README.md",
+  "_id": "fis3-parser-babel@1.1.0",
+  "_shasum": "220b7ba509d1654e77a573bfc3ae0ae1a5731d22",
+  "_from": "fis3-parser-babel@>=1.0.7 <2.0.0"
+}
